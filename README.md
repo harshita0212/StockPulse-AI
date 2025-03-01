@@ -1,7 +1,6 @@
-### **📌 Repository Name:**  
-`StockPulse-AI`  
 
----
+
+
 
 ## **📊 StockPulse AI - Stock Market Analysis & Prediction using AI/ML**  
 
